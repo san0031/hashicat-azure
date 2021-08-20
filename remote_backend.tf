@@ -7,7 +7,7 @@ terraform {
     organization = "SrividyaAnanthasubramoney-training"
 
     workspaces {
-      name = "hashicat-azure"
+      name = "hashicat-azure-test"
     }
   }
 }
